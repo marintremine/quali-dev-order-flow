@@ -83,10 +83,21 @@ TODO
 ## Installation
 
 TODO
+
+## Contribution 
+
+We use GitFlow for our branching strategy. Please refer to the contribution guide and ensure you follow the guidelines [contribution guide](./CONTRIBUTING.md).
     
 ## Authors
 
 - Thibaud FAURIE :
   - [@thibaud.faurie (Private GitLab)](https://gitlab.cloud0.openrichmedia.org/thibaud.faurie)
   - [@thibaud-faurie (LinkedIn)](https://www.linkedin.com/in/thibaud-faurie/)
-
+- Liam SOTIER : 
+  - [@sotier.liam (Private GitHub)](https://github.com/LiamSottier)
+- Noa Jacquet :
+  - [@jacquet.noa (Private GitHub)](https://github.com/NoaJacquet)
+- Marin TREMINE : 
+  - [@tremine.marin (Private GitHub)](https://github.com/marintremine)
+- Romain MECHAIN : 
+  - [@mechain.romain (Private GitHub)](https://github.com/RomainMechain)
