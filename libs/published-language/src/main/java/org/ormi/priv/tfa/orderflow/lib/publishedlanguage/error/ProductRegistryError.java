@@ -2,7 +2,7 @@ package org.ormi.priv.tfa.orderflow.lib.publishedlanguage.error;
 
 import org.ormi.priv.tfa.orderflow.lib.publishedlanguage.message.ProductRegistryMessage;
 
-class ProductRegistryError implements ProductRegistryMessage{
+public class ProductRegistryError implements ProductRegistryMessage{
     public final String message;
     public final String errorCode;
 
