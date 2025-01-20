@@ -87,6 +87,10 @@ TODO
 ## Contribution 
 
 We use GitFlow for our branching strategy. Please refer to the contribution guide and ensure you follow the guidelines [contribution guide](./CONTRIBUTING.md).
+
+## Version 
+
+This is the version 0.1.1 of the project.
     
 ## Authors
 

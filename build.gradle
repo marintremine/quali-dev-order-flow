@@ -34,3 +34,5 @@ tasks.register("projectReportAll") {
         dependsOn(it.task(":projectReportAll"))
     }
 }
+
+version = "0.1.1"
